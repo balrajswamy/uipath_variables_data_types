@@ -1,0 +1,30 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strInvoiceNO&Sequence_2",
+        "dblGST&Sequence_2",
+        "dblNetInvoiceAmount&Sequence_2",
+        "dblAmount&Sequence_2",
+        "dbUnitPrice&Sequence_2",
+        "intQuantity&Sequence_2",
+        "strProductDescription&Sequence_2",
+        "strProductId&Sequence_2",
+        "dtInvoiceDate&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

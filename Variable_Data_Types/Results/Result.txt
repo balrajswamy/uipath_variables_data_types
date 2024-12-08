@@ -1,0 +1,1 @@
+InvoiceDate:	12/08/2024 09:16:42InvoiceNumber:	2020_001_202ProductID:	LP001Prodcut Description:	HP LaptopQuantity:	15Unit Price:	50000.5Amount:	750007.5
